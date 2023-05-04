@@ -1,6 +1,6 @@
 # Henri Johan Suurorg - Software Engineer
 
-📧 henrijohan.suurorg@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/henrisuurorg) | 🐙 [GitHub](https://github.com/henrisuurorg)
+📧 henrijohan.suurorg@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/henrisuurorg)
 
 ## 👨‍💻 Experience
 
