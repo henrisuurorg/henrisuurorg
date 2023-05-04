@@ -1,6 +1,6 @@
 # Henri Johan Suurorg - Software Engineer
 
-📞 +46 72 444 2751 | 📧 henrijohan.suurorg@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/henrisuurorg) | 🐙 [GitHub](https://github.com/henrisuurorg)
+📧 henrijohan.suurorg@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/henrisuurorg) | 🐙 [GitHub](https://github.com/henrisuurorg)
 
 ## 👨‍💻 Experience
 
